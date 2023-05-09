@@ -213,7 +213,7 @@
         return Object.prototype.hasOwnProperty.call(e, n)
     }
     ,
-    o.p = "/",
+    o.p = window.location.href.includes('github') || window.location.href.includes('chenjiamian') ? "/xt3d-Situation-Command-of-Public-Security-Exercises/":"/",
     o.oe = function(e) {
         throw e
     }
