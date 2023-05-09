@@ -805,7 +805,7 @@ webpackJsonp([8], {
         s.default.use(a.a);
         var v = [{
             path: "/",
-            redirect: "/home"
+            redirect: "/edit"
         }, {
             path: "/home",
             name: "home",
