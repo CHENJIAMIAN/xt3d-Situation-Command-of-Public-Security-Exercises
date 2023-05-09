@@ -3,7 +3,7 @@
 依赖于xt3d.js, 是官方高级案例之一，是网站的部署后的源码，非开发时源码, 包含3DTiles+gltf+images等数据
 
 
-本地运行npm i serve -g 和 npm run serve即可，完美运行
+本地运行`npm i serve -g` 和 `serve`即可，完美运行
 
 由于资源路径问题，GithubPage预览会有问题
 
